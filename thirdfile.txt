@@ -1,2 +1,6 @@
 my dear see my face daa
+<<<<<<< HEAD
 helllllooooo then okkkk
+=======
+helllllooooo then i dnt knowwww
+>>>>>>> 4a69aac22370f90bb855a6cb4f54027a80e79628
